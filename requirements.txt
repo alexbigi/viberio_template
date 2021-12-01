@@ -1,0 +1,7 @@
+aiohttp==3.7.4.post0
+certifi
+python-dateutil
+validators
+viberbot
+apscheduler
+sqlalchemy
